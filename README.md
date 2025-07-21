@@ -1,1 +1,3 @@
-# Game-disc
+App Documentation
+
+By: Eric Telhado / Otávio Mascarenhas
