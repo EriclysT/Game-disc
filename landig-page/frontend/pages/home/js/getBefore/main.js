@@ -14,6 +14,9 @@ async function getBefore() {
 
 
         // Por que ele entra nesse if?
+        // Pois achou o yearComponent.textContent
+        // yearComponent.textContent ?
+        // <span id="year">1</span>
         if (yearComponent.textContent) {
             return console.log('estamos em greve!')
         }
