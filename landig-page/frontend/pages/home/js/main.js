@@ -6,12 +6,6 @@ async function main () {
         const beforeData = await getBefore();
         
 
-        // const beforeData = {
-        //     'status': true,
-        //     'year_obtained': year_obtained
-        // }
-
-
         if (beforeData.status) {
             console.log(beforeData.status)
             console.log(`Ano obtido com sucesso, estamos em ${beforeData.year_obtained}.`)
