@@ -1,3 +1,0 @@
-Landing Page Documentation
-
-React
