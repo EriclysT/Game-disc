@@ -31,12 +31,18 @@ nav a:hover {
 }
 
 main {
-    min-height: 80vh;
+    min-width: 320px;
+    max-width: 600px;
     margin: 2rem auto;
     padding: 2rem 1rem;
     background: #fff;
     border-radius: 8px;
     box-shadow: 0 2px 8px #0001;
+    text-align: center;
+}
+
+h1, h2, p {
+    text-align: center;
 }
 
 h1 {
